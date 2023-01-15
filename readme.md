@@ -13,3 +13,8 @@ A new Jetpack Compose Project
 
 - Jetpack Compose UI. Custom animations, light/dark theme and layouts.
 - Jetpack Compose Dynamic Colors (Android 12+)
+
+## Preview
+
+| ![Light](preview/lightMode.png) | ![Dark](preview/darkMode.png) |
+|---------------------------------|:-----------------------------:|
